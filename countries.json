@@ -1,0 +1,1547 @@
+{
+  "meta": {
+    "total_adult_population": 5346224000,
+    "source": "UN World Population Prospects 2023 estimates (18+ population)",
+    "note": "Urban/rural splits are approximate. Filter multipliers are randomized ranges for entertainment purposes only.",
+    "total_adult_male": 2691463800,
+    "total_adult_female": 2654760200
+  },
+  "filters": {
+    "urban_rural": {
+      "urban": 0.57,
+      "rural": 0.43
+    },
+    "currently_awake": {
+      "estimate": 0.5
+    },
+    "flavor": {
+      "believes_in_karma": 0.34,
+      "has_argued_online_today": 0.61,
+      "owns_a_pet": 0.33,
+      "currently_eating": 0.12,
+      "has_a_weird_neighbor": 0.78
+    }
+  },
+  "countries": [
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "adult_total": 19800000,
+      "adult_male": 10500000,
+      "adult_female": 9300000,
+      "urban_pct": 0.26
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "adult_total": 2100000,
+      "adult_male": 1050000,
+      "adult_female": 1050000,
+      "urban_pct": 0.63
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "adult_total": 29500000,
+      "adult_male": 15000000,
+      "adult_female": 14500000,
+      "urban_pct": 0.74
+    },
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "adult_total": 65000,
+      "adult_male": 34000,
+      "adult_female": 31000,
+      "urban_pct": 0.88
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "adult_total": 18200000,
+      "adult_male": 9000000,
+      "adult_female": 9200000,
+      "urban_pct": 0.68
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "adult_total": 72000,
+      "adult_male": 35000,
+      "adult_female": 37000,
+      "urban_pct": 0.24
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "adult_total": 32800000,
+      "adult_male": 15900000,
+      "adult_female": 16900000,
+      "urban_pct": 0.92
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "adult_total": 2200000,
+      "adult_male": 1020000,
+      "adult_female": 1180000,
+      "urban_pct": 0.64
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "adult_total": 20100000,
+      "adult_male": 10000000,
+      "adult_female": 10100000,
+      "urban_pct": 0.86
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "adult_total": 7400000,
+      "adult_male": 3640000,
+      "adult_female": 3760000,
+      "urban_pct": 0.59
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "adult_total": 7200000,
+      "adult_male": 3560000,
+      "adult_female": 3640000,
+      "urban_pct": 0.57
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "adult_total": 280000,
+      "adult_male": 136000,
+      "adult_female": 144000,
+      "urban_pct": 0.83
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "adult_total": 1300000,
+      "adult_male": 870000,
+      "adult_female": 430000,
+      "urban_pct": 0.89
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "adult_total": 110000000,
+      "adult_male": 56000000,
+      "adult_female": 54000000,
+      "urban_pct": 0.4
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "adult_total": 210000,
+      "adult_male": 101000,
+      "adult_female": 109000,
+      "urban_pct": 0.31
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "adult_total": 7400000,
+      "adult_male": 3380000,
+      "adult_female": 4020000,
+      "urban_pct": 0.8
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "adult_total": 9300000,
+      "adult_male": 4590000,
+      "adult_female": 4710000,
+      "urban_pct": 0.98
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "adult_total": 230000,
+      "adult_male": 115000,
+      "adult_female": 115000,
+      "urban_pct": 0.46
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "adult_total": 7200000,
+      "adult_male": 3560000,
+      "adult_female": 3640000,
+      "urban_pct": 0.5
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "adult_total": 560000,
+      "adult_male": 290000,
+      "adult_female": 270000,
+      "urban_pct": 0.43
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "adult_total": 7900000,
+      "adult_male": 3870000,
+      "adult_female": 4030000,
+      "urban_pct": 0.7
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "adult_total": 2700000,
+      "adult_male": 1310000,
+      "adult_female": 1390000,
+      "urban_pct": 0.48
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "adult_total": 1500000,
+      "adult_male": 730000,
+      "adult_female": 770000,
+      "urban_pct": 0.72
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "adult_total": 162000000,
+      "adult_male": 78500000,
+      "adult_female": 83500000,
+      "urban_pct": 0.87
+    },
+    {
+      "code": "BN",
+      "name": "Brunei",
+      "adult_total": 330000,
+      "adult_male": 175000,
+      "adult_female": 155000,
+      "urban_pct": 0.78
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "adult_total": 5400000,
+      "adult_male": 2600000,
+      "adult_female": 2800000,
+      "urban_pct": 0.76
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "adult_total": 10800000,
+      "adult_male": 5300000,
+      "adult_female": 5500000,
+      "urban_pct": 0.32
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "adult_total": 7100000,
+      "adult_male": 3480000,
+      "adult_female": 3620000,
+      "urban_pct": 0.14
+    },
+    {
+      "code": "CV",
+      "name": "Cabo Verde",
+      "adult_total": 390000,
+      "adult_male": 190000,
+      "adult_female": 200000,
+      "urban_pct": 0.67
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "adult_total": 11200000,
+      "adult_male": 5400000,
+      "adult_female": 5800000,
+      "urban_pct": 0.25
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "adult_total": 14800000,
+      "adult_male": 7300000,
+      "adult_female": 7500000,
+      "urban_pct": 0.59
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "adult_total": 31200000,
+      "adult_male": 15500000,
+      "adult_female": 15700000,
+      "urban_pct": 0.82
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic",
+      "adult_total": 2700000,
+      "adult_male": 1310000,
+      "adult_female": 1390000,
+      "urban_pct": 0.43
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "adult_total": 9100000,
+      "adult_male": 4480000,
+      "adult_female": 4620000,
+      "urban_pct": 0.24
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "adult_total": 15300000,
+      "adult_male": 7500000,
+      "adult_female": 7800000,
+      "urban_pct": 0.88
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "adult_total": 1050000000,
+      "adult_male": 543000000,
+      "adult_female": 507000000,
+      "urban_pct": 0.65
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "adult_total": 37500000,
+      "adult_male": 18100000,
+      "adult_female": 19400000,
+      "urban_pct": 0.82
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "adult_total": 520000,
+      "adult_male": 255000,
+      "adult_female": 265000,
+      "urban_pct": 0.3
+    },
+    {
+      "code": "CG",
+      "name": "Congo",
+      "adult_total": 3200000,
+      "adult_male": 1570000,
+      "adult_female": 1630000,
+      "urban_pct": 0.68
+    },
+    {
+      "code": "CD",
+      "name": "DR Congo",
+      "adult_total": 51000000,
+      "adult_male": 25000000,
+      "adult_female": 26000000,
+      "urban_pct": 0.47
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "adult_total": 3800000,
+      "adult_male": 1890000,
+      "adult_female": 1910000,
+      "urban_pct": 0.82
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "adult_total": 3200000,
+      "adult_male": 1540000,
+      "adult_female": 1660000,
+      "urban_pct": 0.58
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "adult_total": 9200000,
+      "adult_male": 4560000,
+      "adult_female": 4640000,
+      "urban_pct": 0.77
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "adult_total": 920000,
+      "adult_male": 460000,
+      "adult_female": 460000,
+      "urban_pct": 0.67
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "adult_total": 8800000,
+      "adult_male": 4310000,
+      "adult_female": 4490000,
+      "urban_pct": 0.74
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "adult_total": 4700000,
+      "adult_male": 2330000,
+      "adult_female": 2370000,
+      "urban_pct": 0.88
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "adult_total": 680000,
+      "adult_male": 340000,
+      "adult_female": 340000,
+      "urban_pct": 0.78
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "adult_total": 55000,
+      "adult_male": 27000,
+      "adult_female": 28000,
+      "urban_pct": 0.71
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "adult_total": 7900000,
+      "adult_male": 3970000,
+      "adult_female": 3930000,
+      "urban_pct": 0.84
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "adult_total": 12400000,
+      "adult_male": 6100000,
+      "adult_female": 6300000,
+      "urban_pct": 0.64
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "adult_total": 69000000,
+      "adult_male": 35200000,
+      "adult_female": 33800000,
+      "urban_pct": 0.43
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "adult_total": 4700000,
+      "adult_male": 2200000,
+      "adult_female": 2500000,
+      "urban_pct": 0.74
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "adult_total": 890000,
+      "adult_male": 450000,
+      "adult_female": 440000,
+      "urban_pct": 0.74
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "adult_total": 2200000,
+      "adult_male": 1080000,
+      "adult_female": 1120000,
+      "urban_pct": 0.42
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "adult_total": 1050000,
+      "adult_male": 480000,
+      "adult_female": 570000,
+      "urban_pct": 0.69
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "adult_total": 800000,
+      "adult_male": 380000,
+      "adult_female": 420000,
+      "urban_pct": 0.25
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "adult_total": 72000000,
+      "adult_male": 35800000,
+      "adult_female": 36200000,
+      "urban_pct": 0.23
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "adult_total": 640000,
+      "adult_male": 320000,
+      "adult_female": 320000,
+      "urban_pct": 0.57
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "adult_total": 4400000,
+      "adult_male": 2160000,
+      "adult_female": 2240000,
+      "urban_pct": 0.85
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "adult_total": 52000000,
+      "adult_male": 25300000,
+      "adult_female": 26700000,
+      "urban_pct": 0.81
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "adult_total": 1500000,
+      "adult_male": 750000,
+      "adult_female": 750000,
+      "urban_pct": 0.9
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "adult_total": 1400000,
+      "adult_male": 690000,
+      "adult_female": 710000,
+      "urban_pct": 0.63
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "adult_total": 2900000,
+      "adult_male": 1350000,
+      "adult_female": 1550000,
+      "urban_pct": 0.6
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "adult_total": 69000000,
+      "adult_male": 34000000,
+      "adult_female": 35000000,
+      "urban_pct": 0.77
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "adult_total": 19800000,
+      "adult_male": 9800000,
+      "adult_female": 10000000,
+      "urban_pct": 0.58
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "adult_total": 8900000,
+      "adult_male": 4380000,
+      "adult_female": 4520000,
+      "urban_pct": 0.79
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "adult_total": 82000,
+      "adult_male": 40000,
+      "adult_female": 42000,
+      "urban_pct": 0.36
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "adult_total": 9900000,
+      "adult_male": 4800000,
+      "adult_female": 5100000,
+      "urban_pct": 0.52
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "adult_total": 7500000,
+      "adult_male": 3700000,
+      "adult_female": 3800000,
+      "urban_pct": 0.37
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "adult_total": 1100000,
+      "adult_male": 540000,
+      "adult_female": 560000,
+      "urban_pct": 0.45
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "adult_total": 580000,
+      "adult_male": 290000,
+      "adult_female": 290000,
+      "urban_pct": 0.27
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "adult_total": 7200000,
+      "adult_male": 3540000,
+      "adult_female": 3660000,
+      "urban_pct": 0.58
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "adult_total": 7000000,
+      "adult_male": 3430000,
+      "adult_female": 3570000,
+      "urban_pct": 0.59
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "adult_total": 7800000,
+      "adult_male": 3720000,
+      "adult_female": 4080000,
+      "urban_pct": 0.72
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "adult_total": 290000,
+      "adult_male": 146000,
+      "adult_female": 144000,
+      "urban_pct": 0.94
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "adult_total": 900000000,
+      "adult_male": 467000000,
+      "adult_female": 433000000,
+      "urban_pct": 0.36
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "adult_total": 196000000,
+      "adult_male": 98000000,
+      "adult_female": 98000000,
+      "urban_pct": 0.58
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "adult_total": 62000000,
+      "adult_male": 31500000,
+      "adult_female": 30500000,
+      "urban_pct": 0.77
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "adult_total": 27000000,
+      "adult_male": 13800000,
+      "adult_female": 13200000,
+      "urban_pct": 0.71
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "adult_total": 3800000,
+      "adult_male": 1890000,
+      "adult_female": 1910000,
+      "urban_pct": 0.64
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "adult_total": 6900000,
+      "adult_male": 3400000,
+      "adult_female": 3500000,
+      "urban_pct": 0.93
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "adult_total": 50000000,
+      "adult_male": 24400000,
+      "adult_female": 25600000,
+      "urban_pct": 0.72
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "adult_total": 2000000,
+      "adult_male": 980000,
+      "adult_female": 1020000,
+      "urban_pct": 0.57
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "adult_total": 103000000,
+      "adult_male": 50100000,
+      "adult_female": 52900000,
+      "urban_pct": 0.92
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "adult_total": 7600000,
+      "adult_male": 4200000,
+      "adult_female": 3400000,
+      "urban_pct": 0.91
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "adult_total": 12900000,
+      "adult_male": 6200000,
+      "adult_female": 6700000,
+      "urban_pct": 0.58
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "adult_total": 31000000,
+      "adult_male": 15400000,
+      "adult_female": 15600000,
+      "urban_pct": 0.29
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "adult_total": 72000,
+      "adult_male": 35000,
+      "adult_female": 37000,
+      "urban_pct": 0.55
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "adult_total": 3500000,
+      "adult_male": 2200000,
+      "adult_female": 1300000,
+      "urban_pct": 0.99
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "adult_total": 3900000,
+      "adult_male": 1890000,
+      "adult_female": 2010000,
+      "urban_pct": 0.37
+    },
+    {
+      "code": "LA",
+      "name": "Laos",
+      "adult_total": 4700000,
+      "adult_male": 2310000,
+      "adult_female": 2390000,
+      "urban_pct": 0.37
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "adult_total": 1400000,
+      "adult_male": 630000,
+      "adult_female": 770000,
+      "urban_pct": 0.68
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "adult_total": 4200000,
+      "adult_male": 2060000,
+      "adult_female": 2140000,
+      "urban_pct": 0.89
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "adult_total": 1500000,
+      "adult_male": 720000,
+      "adult_female": 780000,
+      "urban_pct": 0.3
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "adult_total": 2800000,
+      "adult_male": 1380000,
+      "adult_female": 1420000,
+      "urban_pct": 0.53
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "adult_total": 5200000,
+      "adult_male": 2750000,
+      "adult_female": 2450000,
+      "urban_pct": 0.81
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "adult_total": 30000,
+      "adult_male": 15000,
+      "adult_female": 15000,
+      "urban_pct": 0.14
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "adult_total": 2200000,
+      "adult_male": 1010000,
+      "adult_female": 1190000,
+      "urban_pct": 0.68
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "adult_total": 510000,
+      "adult_male": 257000,
+      "adult_female": 253000,
+      "urban_pct": 0.92
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "adult_total": 15200000,
+      "adult_male": 7530000,
+      "adult_female": 7670000,
+      "urban_pct": 0.39
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "adult_total": 11000000,
+      "adult_male": 5400000,
+      "adult_female": 5600000,
+      "urban_pct": 0.18
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "adult_total": 24000000,
+      "adult_male": 12300000,
+      "adult_female": 11700000,
+      "urban_pct": 0.78
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "adult_total": 390000,
+      "adult_male": 215000,
+      "adult_female": 175000,
+      "urban_pct": 0.41
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "adult_total": 11200000,
+      "adult_male": 5530000,
+      "adult_female": 5670000,
+      "urban_pct": 0.44
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "adult_total": 430000,
+      "adult_male": 214000,
+      "adult_female": 216000,
+      "urban_pct": 0.95
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "adult_total": 30000,
+      "adult_male": 15000,
+      "adult_female": 15000,
+      "urban_pct": 0.78
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "adult_total": 2700000,
+      "adult_male": 1340000,
+      "adult_female": 1360000,
+      "urban_pct": 0.56
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "adult_total": 1000000,
+      "adult_male": 492000,
+      "adult_female": 508000,
+      "urban_pct": 0.4
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "adult_total": 96000000,
+      "adult_male": 45800000,
+      "adult_female": 50200000,
+      "urban_pct": 0.81
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia",
+      "adult_total": 62000,
+      "adult_male": 31000,
+      "adult_female": 31000,
+      "urban_pct": 0.23
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "adult_total": 2700000,
+      "adult_male": 1250000,
+      "adult_female": 1450000,
+      "urban_pct": 0.43
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "adult_total": 32000,
+      "adult_male": 15800,
+      "adult_female": 16200,
+      "urban_pct": 1.0
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "adult_total": 2300000,
+      "adult_male": 1130000,
+      "adult_female": 1170000,
+      "urban_pct": 0.68
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "adult_total": 490000,
+      "adult_male": 240000,
+      "adult_female": 250000,
+      "urban_pct": 0.68
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "adult_total": 26500000,
+      "adult_male": 13100000,
+      "adult_female": 13400000,
+      "urban_pct": 0.64
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "adult_total": 17000000,
+      "adult_male": 8200000,
+      "adult_female": 8800000,
+      "urban_pct": 0.38
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar",
+      "adult_total": 36000000,
+      "adult_male": 17300000,
+      "adult_female": 18700000,
+      "urban_pct": 0.32
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "adult_total": 1700000,
+      "adult_male": 830000,
+      "adult_female": 870000,
+      "urban_pct": 0.53
+    },
+    {
+      "code": "NR",
+      "name": "Nauru",
+      "adult_total": 8000,
+      "adult_male": 4000,
+      "adult_female": 4000,
+      "urban_pct": 1.0
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "adult_total": 19600000,
+      "adult_male": 9300000,
+      "adult_female": 10300000,
+      "urban_pct": 0.21
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "adult_total": 14200000,
+      "adult_male": 7020000,
+      "adult_female": 7180000,
+      "urban_pct": 0.93
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "adult_total": 3900000,
+      "adult_male": 1930000,
+      "adult_female": 1970000,
+      "urban_pct": 0.87
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "adult_total": 4400000,
+      "adult_male": 2130000,
+      "adult_female": 2270000,
+      "urban_pct": 0.59
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "adult_total": 9700000,
+      "adult_male": 4790000,
+      "adult_female": 4910000,
+      "urban_pct": 0.17
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "adult_total": 120000000,
+      "adult_male": 60000000,
+      "adult_female": 60000000,
+      "urban_pct": 0.54
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "adult_total": 4300000,
+      "adult_male": 2140000,
+      "adult_female": 2160000,
+      "urban_pct": 0.83
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "adult_total": 3700000,
+      "adult_male": 2450000,
+      "adult_female": 1250000,
+      "urban_pct": 0.87
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "adult_total": 131000000,
+      "adult_male": 68500000,
+      "adult_female": 62500000,
+      "urban_pct": 0.37
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "adult_total": 15000,
+      "adult_male": 8000,
+      "adult_female": 7000,
+      "urban_pct": 0.8
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "adult_total": 3200000,
+      "adult_male": 1590000,
+      "adult_female": 1610000,
+      "urban_pct": 0.69
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "adult_total": 5700000,
+      "adult_male": 2940000,
+      "adult_female": 2760000,
+      "urban_pct": 0.13
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "adult_total": 5100000,
+      "adult_male": 2530000,
+      "adult_female": 2570000,
+      "urban_pct": 0.63
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "adult_total": 24000000,
+      "adult_male": 11900000,
+      "adult_female": 12100000,
+      "urban_pct": 0.79
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "adult_total": 73000000,
+      "adult_male": 36200000,
+      "adult_female": 36800000,
+      "urban_pct": 0.48
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "adult_total": 31000000,
+      "adult_male": 14900000,
+      "adult_female": 16100000,
+      "urban_pct": 0.6
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "adult_total": 8500000,
+      "adult_male": 4060000,
+      "adult_female": 4440000,
+      "urban_pct": 0.67
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "adult_total": 2600000,
+      "adult_male": 1950000,
+      "adult_female": 650000,
+      "urban_pct": 0.99
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "adult_total": 14800000,
+      "adult_male": 7140000,
+      "adult_female": 7660000,
+      "urban_pct": 0.55
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "adult_total": 114000000,
+      "adult_male": 52900000,
+      "adult_female": 61100000,
+      "urban_pct": 0.75
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "adult_total": 7800000,
+      "adult_male": 3780000,
+      "adult_female": 4020000,
+      "urban_pct": 0.18
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "adult_total": 38000,
+      "adult_male": 19000,
+      "adult_female": 19000,
+      "urban_pct": 0.31
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "adult_total": 130000,
+      "adult_male": 63000,
+      "adult_female": 67000,
+      "urban_pct": 0.19
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "adult_total": 79000,
+      "adult_male": 39000,
+      "adult_female": 40000,
+      "urban_pct": 0.53
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "adult_total": 140000,
+      "adult_male": 71000,
+      "adult_female": 69000,
+      "urban_pct": 0.17
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "adult_total": 27000,
+      "adult_male": 13000,
+      "adult_female": 14000,
+      "urban_pct": 0.97
+    },
+    {
+      "code": "ST",
+      "name": "São Tomé and Príncipe",
+      "adult_total": 130000,
+      "adult_male": 64000,
+      "adult_female": 66000,
+      "urban_pct": 0.75
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "adult_total": 26000000,
+      "adult_male": 15800000,
+      "adult_female": 10200000,
+      "urban_pct": 0.84
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "adult_total": 9900000,
+      "adult_male": 4870000,
+      "adult_female": 5030000,
+      "urban_pct": 0.49
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "adult_total": 5800000,
+      "adult_male": 2820000,
+      "adult_female": 2980000,
+      "urban_pct": 0.57
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "adult_total": 76000,
+      "adult_male": 38000,
+      "adult_female": 38000,
+      "urban_pct": 0.58
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "adult_total": 4800000,
+      "adult_male": 2350000,
+      "adult_female": 2450000,
+      "urban_pct": 0.44
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "adult_total": 4800000,
+      "adult_male": 2380000,
+      "adult_female": 2420000,
+      "urban_pct": 1.0
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "adult_total": 4500000,
+      "adult_male": 2180000,
+      "adult_female": 2320000,
+      "urban_pct": 0.54
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "adult_total": 1700000,
+      "adult_male": 840000,
+      "adult_female": 860000,
+      "urban_pct": 0.55
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "adult_total": 380000,
+      "adult_male": 197000,
+      "adult_female": 183000,
+      "urban_pct": 0.25
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "adult_total": 8600000,
+      "adult_male": 4280000,
+      "adult_female": 4320000,
+      "urban_pct": 0.47
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "adult_total": 40000000,
+      "adult_male": 19300000,
+      "adult_female": 20700000,
+      "urban_pct": 0.68
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "adult_total": 6700000,
+      "adult_male": 3380000,
+      "adult_female": 3320000,
+      "urban_pct": 0.21
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "adult_total": 39000000,
+      "adult_male": 19200000,
+      "adult_female": 19800000,
+      "urban_pct": 0.81
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "adult_total": 16200000,
+      "adult_male": 7700000,
+      "adult_female": 8500000,
+      "urban_pct": 0.19
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "adult_total": 25000000,
+      "adult_male": 12500000,
+      "adult_female": 12500000,
+      "urban_pct": 0.36
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "adult_total": 460000,
+      "adult_male": 228000,
+      "adult_female": 232000,
+      "urban_pct": 0.67
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "adult_total": 8300000,
+      "adult_male": 4130000,
+      "adult_female": 4170000,
+      "urban_pct": 0.88
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "adult_total": 7100000,
+      "adult_male": 3510000,
+      "adult_female": 3590000,
+      "urban_pct": 0.74
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "adult_total": 13100000,
+      "adult_male": 6600000,
+      "adult_female": 6500000,
+      "urban_pct": 0.57
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "adult_total": 20500000,
+      "adult_male": 10200000,
+      "adult_female": 10300000,
+      "urban_pct": 0.8
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "adult_total": 5800000,
+      "adult_male": 2910000,
+      "adult_female": 2890000,
+      "urban_pct": 0.28
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "adult_total": 33000000,
+      "adult_male": 16200000,
+      "adult_female": 16800000,
+      "urban_pct": 0.37
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "adult_total": 55000000,
+      "adult_male": 26700000,
+      "adult_female": 28300000,
+      "urban_pct": 0.53
+    },
+    {
+      "code": "TL",
+      "name": "Timor-Leste",
+      "adult_total": 870000,
+      "adult_male": 440000,
+      "adult_female": 430000,
+      "urban_pct": 0.32
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "adult_total": 4900000,
+      "adult_male": 2420000,
+      "adult_female": 2480000,
+      "urban_pct": 0.43
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "adult_total": 73000,
+      "adult_male": 36000,
+      "adult_female": 37000,
+      "urban_pct": 0.23
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "adult_total": 1100000,
+      "adult_male": 545000,
+      "adult_female": 555000,
+      "urban_pct": 0.54
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "adult_total": 8700000,
+      "adult_male": 4350000,
+      "adult_female": 4350000,
+      "urban_pct": 0.7
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "adult_total": 66000000,
+      "adult_male": 33000000,
+      "adult_female": 33000000,
+      "urban_pct": 0.77
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "adult_total": 3900000,
+      "adult_male": 1930000,
+      "adult_female": 1970000,
+      "urban_pct": 0.53
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "adult_total": 8000,
+      "adult_male": 4000,
+      "adult_female": 4000,
+      "urban_pct": 0.64
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "adult_total": 22000000,
+      "adult_male": 10900000,
+      "adult_female": 11100000,
+      "urban_pct": 0.27
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "adult_total": 33000000,
+      "adult_male": 14900000,
+      "adult_female": 18100000,
+      "urban_pct": 0.7
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "adult_total": 9500000,
+      "adult_male": 6700000,
+      "adult_female": 2800000,
+      "urban_pct": 0.87
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "adult_total": 54000000,
+      "adult_male": 26700000,
+      "adult_female": 27300000,
+      "urban_pct": 0.84
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "adult_total": 258000000,
+      "adult_male": 126000000,
+      "adult_female": 132000000,
+      "urban_pct": 0.83
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "adult_total": 2800000,
+      "adult_male": 1340000,
+      "adult_female": 1460000,
+      "urban_pct": 0.96
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "adult_total": 24000000,
+      "adult_male": 11900000,
+      "adult_female": 12100000,
+      "urban_pct": 0.51
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "adult_total": 200000,
+      "adult_male": 101000,
+      "adult_female": 99000,
+      "urban_pct": 0.26
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "adult_total": 23000000,
+      "adult_male": 11300000,
+      "adult_female": 11700000,
+      "urban_pct": 0.88
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "adult_total": 73000000,
+      "adult_male": 35900000,
+      "adult_female": 37100000,
+      "urban_pct": 0.39
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "adult_total": 18500000,
+      "adult_male": 9400000,
+      "adult_female": 9100000,
+      "urban_pct": 0.39
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "adult_total": 9900000,
+      "adult_male": 4880000,
+      "adult_female": 5020000,
+      "urban_pct": 0.46
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "adult_total": 9200000,
+      "adult_male": 4490000,
+      "adult_female": 4710000,
+      "urban_pct": 0.33
+    }
+  ]
+}

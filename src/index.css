@@ -1,0 +1,94 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', sans-serif;
+  background: linear-gradient(180deg, #f5f5f7 0%, #ffffff 50%, #fafafa 100%);
+  color: #1d1d1f;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100vh;
+  position: relative;
+}
+
+@layer utilities {
+  .glass-panel {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(40px) saturate(180%);
+    -webkit-backdrop-filter: blur(40px) saturate(180%);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.08);
+  }
+  
+  .glass-panel-strong {
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(60px) saturate(200%);
+    -webkit-backdrop-filter: blur(60px) saturate(200%);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 0 20px 60px 0 rgba(0, 0, 0, 0.12);
+  }
+  
+  .gradient-mesh {
+    background-image: 
+      radial-gradient(at 20% 30%, rgba(0, 122, 255, 0.08) 0px, transparent 50%),
+      radial-gradient(at 80% 70%, rgba(94, 92, 230, 0.08) 0px, transparent 50%),
+      radial-gradient(at 50% 50%, rgba(230, 57, 70, 0.06) 0px, transparent 50%);
+  }
+  
+  .text-gradient {
+    background: linear-gradient(135deg, #007AFF 0%, #5E5CE6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .shimmer-effect {
+    background: linear-gradient(
+      90deg,
+      rgba(255, 255, 255, 0) 0%,
+      rgba(255, 255, 255, 0.1) 50%,
+      rgba(255, 255, 255, 0) 100%
+    );
+    background-size: 200% 100%;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    transition: background 0.2s;
+  }
+  
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.3);
+  }
+  
+  .hover-lift {
+    transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  
+  .hover-lift:hover {
+    transform: translateY(-2px);
+  }
+}
